@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+    padding: 1rem 0rem;
+    background-color: #f7f7f7;
+    color: #004;
+}
+
+button{
+    display:block;
+    margin: 1rem 0rem;
+    width: 5rem;
+}
+
+#textarea{
+    margin: 1rem 0rem;
+}
+
+footer{
+    
+    margin-top:7rem;
+    background-color: #f7f7f7;
+    color: #004;
+    
+}
